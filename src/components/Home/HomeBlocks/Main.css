@@ -1,0 +1,36 @@
+.Main{
+   /* display: flex;
+   justify-content: center;
+align-items: center;
+   height: 80vh; */
+   display: grid;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   width: 100%;
+   /* margin-top: 50px;    */
+   /* margin: 0  24px; */
+   background: url(https://kartinki.pics/pics/uploads/posts/2022-08/thumbs/1660809741_2-kartinkin-net-p-fon-dlya-igrovogo-kompyutera-krasivo-2.png);
+   background-size: cover   ;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+    }
+.info-block{
+    color: beige;
+  opacity: 1;
+}
+.text{
+    margin-top: 20px;
+
+}
+.type{
+    font-size: 44px;
+}
+.info-title{
+    font-size: 28px;
+    font-weight: 600;
+}
+.text-info{
+    font-size: 23px;
+    color: gray;
+}

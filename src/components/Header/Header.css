@@ -1,0 +1,20 @@
+.Header{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+    width: 100%;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+    position: fixed;
+
+}
+.nav-menu{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%; 
+    max-width: 300px; 
+    justify-content: space-around;
+}
