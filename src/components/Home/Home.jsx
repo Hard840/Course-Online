@@ -1,6 +1,6 @@
 import React from 'react';
-import Main from './HomeBlocks/Main/Main/Main';
 import '../Home/Home.css'
+import Main from './HomeBlocks/Main/Main';
 const Home = () => {
     return (
         <div className='Home'>

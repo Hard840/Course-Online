@@ -9,6 +9,7 @@
     background-color: black;
     color: white;
     position: fixed;
+    z-index: 4;
 
 }
 .nav-menu{
