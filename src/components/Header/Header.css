@@ -5,10 +5,10 @@
     align-items: center;
     height: 10vh;
     width: 100%;
-    flex-wrap: wrap;
+    flex-wrap: wrap;    
     background-color: black;
     color: white;
-    position: fixed;
+    /* position: fixed; */
     z-index: 4;
 
 }
